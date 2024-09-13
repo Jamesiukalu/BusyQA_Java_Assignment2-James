@@ -15,7 +15,6 @@ public class TwoD_Arrays_1 {
 		    double average = total / 3.0;
 		    System.out.println("Average score of Student " + (i + 1) + ": " + average);
 		}
-
 	
 	}
 }
